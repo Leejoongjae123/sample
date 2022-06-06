@@ -1,0 +1,17 @@
+[
+    {
+        "name": "kim",
+        "age": 20,
+        "area": "Seoul"
+    },
+    {
+        "name": "park",
+        "age": 30,
+        "area": "Suwon"
+    },
+    {
+        "name": "choi",
+        "age": 35,
+        "area": "Busan"
+    }
+]
